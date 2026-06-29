@@ -29,4 +29,12 @@ This repository is intended to stay simple:
 - `assets/`
 - `CNAME`
 
+## Maintenance map
+
+- Homepage content: `index.html`
+- App/product content: `apps.html`
+- Shared styling: `styles.css`
+- Publishing and domain setup: `DEPLOYMENT.md`
+- Ongoing update notes: `SITE-OPERATIONS.md`
+
 See `DEPLOYMENT.md` for the one-time GitHub Pages and GoDaddy setup.
